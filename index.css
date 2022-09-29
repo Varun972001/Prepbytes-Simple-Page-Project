@@ -1,0 +1,57 @@
+h1
+{
+    margin-bottom:0;
+}
+.remove
+{
+    margin-top:0;
+}
+.line-space
+{
+    margin:27px 0;
+}
+.side-space
+{
+    padding:0 15px;
+}
+thead
+{
+    background-color: lightgray;
+}
+.hide
+{
+    visibility: hidden;
+}
+.ball-table
+{
+    border-collapse: collapse;  
+}
+.position
+{
+    position:relative;
+    bottom:18px;
+}
+.ball
+{
+    position: relative;
+    height:65px;
+}
+.position-table
+{
+    position: relative;
+    bottom:55px;
+    left:35%;
+}
+.position-heading
+{
+    position: relative;
+    left:17%;
+}
+.color-bullet li
+{
+    color:blue;
+}
+.color-bullet b
+{
+    color:black;
+}
